@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'Devicecheck.dart'; // Import your DeviceCheck page
+import 'devicecheck.dart'; // Import your DeviceCheck page
 
 class LoginPage extends StatelessWidget {
   final TextEditingController emailController = TextEditingController();
